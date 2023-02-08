@@ -1,0 +1,325 @@
+﻿date,trial ,time,temp,replicate,density
+2022-10-05,trial_1,Before,28,BH1_1,15
+2022-10-05,trial_1,Before,28,BH1_2,35
+2022-10-05,trial_1,Before,28,BH1_3,35
+2022-10-05,trial_1,Before,28,BH1_4,20
+2022-10-05,trial_1,Before,28,BH1_5,40
+2022-10-05,trial_1,Before,28,BH1_6,50
+2022-10-05,trial_1,Before,28,BH1_7,35
+2022-10-05,trial_1,Before,28,BH1_8,40
+2022-10-05,trial_1,Before,28,BH1_9,25
+2022-10-05,trial_1,Before,28,BH2_1,25
+2022-10-05,trial_1,Before,28,BH2_2,30
+2022-10-05,trial_1,Before,28,BH2_3,35
+2022-10-05,trial_1,Before,28,BH2_4,30
+2022-10-05,trial_1,Before,28,BH2_5,30
+2022-10-05,trial_1,Before,28,BH2_6,35
+2022-10-05,trial_1,Before,28,BH2_7,25
+2022-10-05,trial_1,Before,28,BH2_8,15
+2022-10-05,trial_1,Before,28,BH2_9,30
+2022-10-05,trial_1,Before,28,BH3_1,20
+2022-10-05,trial_1,Before,28,BH3_2,25
+2022-10-05,trial_1,Before,28,BH3_3,35
+2022-10-05,trial_1,Before,28,BH3_4,25
+2022-10-05,trial_1,Before,28,BH3_5,35
+2022-10-05,trial_1,Before,28,BH3_6,10
+2022-10-05,trial_1,Before,28,BH3_7,45
+2022-10-05,trial_1,Before,28,BH3_8,10
+2022-10-05,trial_1,Before,28,BH3_9,20
+2022-10-05,trial_1,After ,28,AH1_1,15
+2022-10-05,trial_1,After ,28,AH1_2,45
+2022-10-05,trial_1,After ,28,AH1_3,45
+2022-10-05,trial_1,After ,28,AH1_4,20
+2022-10-05,trial_1,After ,28,AH1_5,15
+2022-10-05,trial_1,After ,28,AH1_6,40
+2022-10-05,trial_1,After ,28,AH1_7,35
+2022-10-05,trial_1,After ,28,AH1_8,40
+2022-10-05,trial_1,After ,28,AH1_9,20
+2022-10-05,trial_1,After ,28,AH2_1,50
+2022-10-05,trial_1,After ,28,AH2_2,25
+2022-10-05,trial_1,After ,28,AH2_3,15
+2022-10-05,trial_1,After ,28,AH2_4,25
+2022-10-05,trial_1,After ,28,AH2_5,25
+2022-10-05,trial_1,After ,28,AH2_6,20
+2022-10-05,trial_1,After ,28,AH2_7,45
+2022-10-05,trial_1,After ,28,AH2_8,20
+2022-10-05,trial_1,After ,28,AH2_9,35
+2022-10-05,trial_1,After ,28,AH3_1,25
+2022-10-05,trial_1,After ,28,AH3_2,30
+2022-10-05,trial_1,After ,28,AH3_3,60
+2022-10-05,trial_1,After ,28,AH3_4,15
+2022-10-05,trial_1,After ,28,AH3_5,20
+2022-10-05,trial_1,After ,28,AH3_6,35
+2022-10-05,trial_1,After ,28,AH3_7,30
+2022-10-05,trial_1,After ,28,AH3_8,25
+2022-10-05,trial_1,After ,28,AH3_9,25
+2022-10-05,trial_1,Before,24,BL1_1,35
+2022-10-05,trial_1,Before,24,BL1_2,15
+2022-10-05,trial_1,Before,24,BL1_3,55
+2022-10-05,trial_1,Before,24,BL1_4,20
+2022-10-05,trial_1,Before,24,BL1_5,25
+2022-10-05,trial_1,Before,24,BL1_6,35
+2022-10-05,trial_1,Before,24,BL1_7,20
+2022-10-05,trial_1,Before,24,BL1_8,20
+2022-10-05,trial_1,Before,24,BL1_9,25
+2022-10-05,trial_1,Before,24,BL2_1,35
+2022-10-05,trial_1,Before,24,BL2_2,55
+2022-10-05,trial_1,Before,24,BL2_3,60
+2022-10-05,trial_1,Before,24,BL2_4,20
+2022-10-05,trial_1,Before,24,BL2_5,40
+2022-10-05,trial_1,Before,24,BL2_6,10
+2022-10-05,trial_1,Before,24,BL2_7,35
+2022-10-05,trial_1,Before,24,BL2_8,45
+2022-10-05,trial_1,Before,24,BL2_9,15
+2022-10-05,trial_1,Before,24,BL3_1,50
+2022-10-05,trial_1,Before,24,BL3_2,55
+2022-10-05,trial_1,Before,24,BL3_3,55
+2022-10-05,trial_1,Before,24,BL3_4,35
+2022-10-05,trial_1,Before,24,BL3_5,20
+2022-10-05,trial_1,Before,24,BL3_6,40
+2022-10-05,trial_1,Before,24,BL3_7,20
+2022-10-05,trial_1,Before,24,BL3_8,25
+2022-10-05,trial_1,Before,24,BL3_9,35
+2022-10-05,trial_1,After ,24,AL1_1,45
+2022-10-05,trial_1,After ,24,AL1_2,25
+2022-10-05,trial_1,After ,24,AL1_3,35
+2022-10-05,trial_1,After ,24,AL1_4,30
+2022-10-05,trial_1,After ,24,AL1_5,35
+2022-10-05,trial_1,After ,24,AL1_6,35
+2022-10-05,trial_1,After ,24,AL1_7,35
+2022-10-05,trial_1,After ,24,AL1_8,40
+2022-10-05,trial_1,After ,24,AL1_9,30
+2022-10-05,trial_1,After ,24,AL2_1,35
+2022-10-05,trial_1,After ,24,AL2_2,35
+2022-10-05,trial_1,After ,24,AL2_3,35
+2022-10-05,trial_1,After ,24,AL2_4,45
+2022-10-05,trial_1,After ,24,AL2_5,15
+2022-10-05,trial_1,After ,24,AL2_6,25
+2022-10-05,trial_1,After ,24,AL2_7,20
+2022-10-05,trial_1,After ,24,AL2_8,30
+2022-10-05,trial_1,After ,24,AL2_9,35
+2022-10-05,trial_1,After ,24,AL3_1,35
+2022-10-05,trial_1,After ,24,AL3_2,5
+2022-10-05,trial_1,After ,24,AL3_3,35
+2022-10-05,trial_1,After ,24,AL3_4,40
+2022-10-05,trial_1,After ,24,AL3_5,35
+2022-10-05,trial_1,After ,24,AL3_6,25
+2022-10-05,trial_1,After ,24,AL3_7,35
+2022-10-05,trial_1,After ,24,AL3_8,45
+2022-10-05,trial_1,After ,24,AL3_9,60
+2022-10-13,trial_2,Before,28,BH1_1,40
+2022-10-13,trial_2,Before,28,BH1_2,55
+2022-10-13,trial_2,Before,28,BH1_3,40
+2022-10-13,trial_2,Before,28,BH1_4,30
+2022-10-13,trial_2,Before,28,BH1_5,25
+2022-10-13,trial_2,Before,28,BH1_6,45
+2022-10-13,trial_2,Before,28,BH1_7,30
+2022-10-13,trial_2,Before,28,BH1_8,20
+2022-10-13,trial_2,Before,28,BH1_9,20
+2022-10-13,trial_2,Before,28,BH2_1,35
+2022-10-13,trial_2,Before,28,BH2_2,30
+2022-10-13,trial_2,Before,28,BH2_3,25
+2022-10-13,trial_2,Before,28,BH2_4,20
+2022-10-13,trial_2,Before,28,BH2_5,20
+2022-10-13,trial_2,Before,28,BH2_6,40
+2022-10-13,trial_2,Before,28,BH2_7,55
+2022-10-13,trial_2,Before,28,BH2_8,40
+2022-10-13,trial_2,Before,28,BH2_9,25
+2022-10-13,trial_2,Before,28,BH3_1,15
+2022-10-13,trial_2,Before,28,BH3_2,30
+2022-10-13,trial_2,Before,28,BH3_3,25
+2022-10-13,trial_2,Before,28,BH3_4,20
+2022-10-13,trial_2,Before,28,BH3_5,5
+2022-10-13,trial_2,Before,28,BH3_6,25
+2022-10-13,trial_2,Before,28,BH3_7,20
+2022-10-13,trial_2,Before,28,BH3_8,40
+2022-10-13,trial_2,Before,28,BH3_9,25
+2022-10-13,trial_2,After,28,AH1_1,10
+2022-10-13,trial_2,After,28,AH1_2,10
+2022-10-13,trial_2,After,28,AH1_3,15
+2022-10-13,trial_2,After,28,AH1_4,5
+2022-10-13,trial_2,After,28,AH1_5,5
+2022-10-13,trial_2,After,28,AH1_6,5
+2022-10-13,trial_2,After,28,AH1_7,5
+2022-10-13,trial_2,After,28,AH1_8,0
+2022-10-13,trial_2,After,28,AH1_9,0
+2022-10-13,trial_2,After,28,AH2_1,10
+2022-10-13,trial_2,After,28,AH2_2,5
+2022-10-13,trial_2,After,28,AH2_3,15
+2022-10-13,trial_2,After,28,AH2_4,5
+2022-10-13,trial_2,After,28,AH2_5,10
+2022-10-13,trial_2,After,28,AH2_6,5
+2022-10-13,trial_2,After,28,AH2_7,5
+2022-10-13,trial_2,After,28,AH2_8,0
+2022-10-13,trial_2,After,28,AH2_9,10
+2022-10-13,trial_2,After,28,AH3_1,0
+2022-10-13,trial_2,After,28,AH3_2,20
+2022-10-13,trial_2,After,28,AH3_3,10
+2022-10-13,trial_2,After,28,AH3_4,10
+2022-10-13,trial_2,After,28,AH3_5,5
+2022-10-13,trial_2,After,28,AH3_6,0
+2022-10-13,trial_2,After,28,AH3_7,0
+2022-10-13,trial_2,After,28,AH3_8,0
+2022-10-13,trial_2,After,28,AH3_9,5
+2022-10-13,trial_2,Before,24,BL1_1,35
+2022-10-13,trial_2,Before,24,BL1_2,10
+2022-10-13,trial_2,Before,24,BL1_3,15
+2022-10-13,trial_2,Before,24,BL1_4,15
+2022-10-13,trial_2,Before,24,BL1_5,10
+2022-10-13,trial_2,Before,24,BL1_6,15
+2022-10-13,trial_2,Before,24,BL1_7,15
+2022-10-13,trial_2,Before,24,BL1_8,30
+2022-10-13,trial_2,Before,24,BL1_9,35
+2022-10-13,trial_2,Before,24,BL2_1,30
+2022-10-13,trial_2,Before,24,BL2_2,40
+2022-10-13,trial_2,Before,24,BL2_3,55
+2022-10-13,trial_2,Before,24,BL2_4,50
+2022-10-13,trial_2,Before,24,BL2_5,30
+2022-10-13,trial_2,Before,24,BL2_6,65
+2022-10-13,trial_2,Before,24,BL2_7,20
+2022-10-13,trial_2,Before,24,BL2_8,30
+2022-10-13,trial_2,Before,24,BL2_9,55
+2022-10-13,trial_2,Before,24,BL3_1,40
+2022-10-13,trial_2,Before,24,BL3_2,55
+2022-10-13,trial_2,Before,24,BL3_3,50
+2022-10-13,trial_2,Before,24,BL3_4,45
+2022-10-13,trial_2,Before,24,BL3_5,40
+2022-10-13,trial_2,Before,24,BL3_6,50
+2022-10-13,trial_2,Before,24,BL3_7,55
+2022-10-13,trial_2,Before,24,BL3_8,20
+2022-10-13,trial_2,Before,24,BL3_9,25
+2022-10-13,trial_2,After,24,AL1_1,5
+2022-10-13,trial_2,After,24,AL1_2,15
+2022-10-13,trial_2,After,24,AL1_3,10
+2022-10-13,trial_2,After,24,AL1_4,5
+2022-10-13,trial_2,After,24,AL1_5,20
+2022-10-13,trial_2,After,24,AL1_6,25
+2022-10-13,trial_2,After,24,AL1_7,0
+2022-10-13,trial_2,After,24,AL1_8,15
+2022-10-13,trial_2,After,24,AL1_9,10
+2022-10-13,trial_2,After,24,AL2_1,25
+2022-10-13,trial_2,After,24,AL2_2,0
+2022-10-13,trial_2,After,24,AL2_3,5
+2022-10-13,trial_2,After,24,AL2_4,10
+2022-10-13,trial_2,After,24,AL2_5,5
+2022-10-13,trial_2,After,24,AL2_6,5
+2022-10-13,trial_2,After,24,AL2_7,15
+2022-10-13,trial_2,After,24,AL2_8,0
+2022-10-13,trial_2,After,24,AL2_9,15
+2022-10-13,trial_2,After,24,AL3_1,15
+2022-10-13,trial_2,After,24,AL3_2,15
+2022-10-13,trial_2,After,24,AL3_3,15
+2022-10-13,trial_2,After,24,AL3_4,5
+2022-10-13,trial_2,After,24,AL3_5,10
+2022-10-13,trial_2,After,24,AL3_6,15
+2022-10-13,trial_2,After,24,AL3_7,0
+2022-10-13,trial_2,After,24,AL3_8,10
+2022-10-13,trial_2,After,24,AL3_9,0
+2022-10-28,trial_3,Before,28,BH1_1,35
+2022-10-28,trial_3,Before,28,BH1_2,80
+2022-10-28,trial_3,Before,28,BH1_3,60
+2022-10-28,trial_3,Before,28,BH1_4,20
+2022-10-28,trial_3,Before,28,BH1_5,15
+2022-10-28,trial_3,Before,28,BH1_6,35
+2022-10-28,trial_3,Before,28,BH1_7,25
+2022-10-28,trial_3,Before,28,BH1_8,25
+2022-10-28,trial_3,Before,28,BH1_9,15
+2022-10-28,trial_3,Before,28,BH2_1,30
+2022-10-28,trial_3,Before,28,BH2_2,75
+2022-10-28,trial_3,Before,28,BH2_3,55
+2022-10-28,trial_3,Before,28,BH2_4,40
+2022-10-28,trial_3,Before,28,BH2_5,40
+2022-10-28,trial_3,Before,28,BH2_6,45
+2022-10-28,trial_3,Before,28,BH2_7,15
+2022-10-28,trial_3,Before,28,BH2_8,30
+2022-10-28,trial_3,Before,28,BH2_9,25
+2022-10-28,trial_3,Before,28,BH3_1,70
+2022-10-28,trial_3,Before,28,BH3_2,30
+2022-10-28,trial_3,Before,28,BH3_3,65
+2022-10-28,trial_3,Before,28,BH3_4,35
+2022-10-28,trial_3,Before,28,BH3_5,25
+2022-10-28,trial_3,Before,28,BH3_6,20
+2022-10-28,trial_3,Before,28,BH3_7,50
+2022-10-28,trial_3,Before,28,BH3_8,45
+2022-10-28,trial_3,Before,28,BH3_9,20
+2022-10-28,trial_3,After ,28,AH1_1,0
+2022-10-28,trial_3,After ,28,AH1_2,0
+2022-10-28,trial_3,After ,28,AH1_3,5
+2022-10-28,trial_3,After ,28,AH1_4,10
+2022-10-28,trial_3,After ,28,AH1_5,0
+2022-10-28,trial_3,After ,28,AH1_6,5
+2022-10-28,trial_3,After ,28,AH1_7,0
+2022-10-28,trial_3,After ,28,AH1_8,5
+2022-10-28,trial_3,After ,28,AH1_9,5
+2022-10-28,trial_3,After ,28,AH2_1,0
+2022-10-28,trial_3,After ,28,AH2_2,5
+2022-10-28,trial_3,After ,28,AH2_3,10
+2022-10-28,trial_3,After ,28,AH2_4,0
+2022-10-28,trial_3,After ,28,AH2_5,10
+2022-10-28,trial_3,After ,28,AH2_6,0
+2022-10-28,trial_3,After ,28,AH2_7,0
+2022-10-28,trial_3,After ,28,AH2_8,5
+2022-10-28,trial_3,After ,28,AH2_9,5
+2022-10-28,trial_3,After ,28,AH3_1,0
+2022-10-28,trial_3,After ,28,AH3_2,5
+2022-10-28,trial_3,After ,28,AH3_3,15
+2022-10-28,trial_3,After ,28,AH3_4,5
+2022-10-28,trial_3,After ,28,AH3_5,5
+2022-10-28,trial_3,After ,28,AH3_6,15
+2022-10-28,trial_3,After ,28,AH3_7,10
+2022-10-28,trial_3,After ,28,AH3_8,0
+2022-10-28,trial_3,After ,28,AH3_9,5
+2022-10-28,trial_3,Before,24,BL1_1,65
+2022-10-28,trial_3,Before,24,BL1_2,35
+2022-10-28,trial_3,Before,24,BL1_3,55
+2022-10-28,trial_3,Before,24,BL1_4,40
+2022-10-28,trial_3,Before,24,BL1_5,75
+2022-10-28,trial_3,Before,24,BL1_6,70
+2022-10-28,trial_3,Before,24,BL1_7,45
+2022-10-28,trial_3,Before,24,BL1_8,60
+2022-10-28,trial_3,Before,24,BL1_9,25
+2022-10-28,trial_3,Before,24,BL2_1,25
+2022-10-28,trial_3,Before,24,BL2_2,40
+2022-10-28,trial_3,Before,24,BL2_3,10
+2022-10-28,trial_3,Before,24,BL2_4,35
+2022-10-28,trial_3,Before,24,BL2_5,45
+2022-10-28,trial_3,Before,24,BL2_6,15
+2022-10-28,trial_3,Before,24,BL2_7,25
+2022-10-28,trial_3,Before,24,BL2_8,30
+2022-10-28,trial_3,Before,24,BL2_9,20
+2022-10-28,trial_3,Before,24,BL3_1,30
+2022-10-28,trial_3,Before,24,BL3_2,30
+2022-10-28,trial_3,Before,24,BL3_3,30
+2022-10-28,trial_3,Before,24,BL3_4,15
+2022-10-28,trial_3,Before,24,BL3_5,25
+2022-10-28,trial_3,Before,24,BL3_6,35
+2022-10-28,trial_3,Before,24,BL3_7,45
+2022-10-28,trial_3,Before,24,BL3_8,30
+2022-10-28,trial_3,Before,24,BL3_9,15
+2022-10-28,trial_3,After ,24,AL1_1,0
+2022-10-28,trial_3,After ,24,AL1_2,5
+2022-10-28,trial_3,After ,24,AL1_3,0
+2022-10-28,trial_3,After ,24,AL1_4,0
+2022-10-28,trial_3,After ,24,AL1_5,5
+2022-10-28,trial_3,After ,24,AL1_6,10
+2022-10-28,trial_3,After ,24,AL1_7,0
+2022-10-28,trial_3,After ,24,AL1_8,0
+2022-10-28,trial_3,After ,24,AL1_9,0
+2022-10-28,trial_3,After ,24,AL2_1,10
+2022-10-28,trial_3,After ,24,AL2_2,0
+2022-10-28,trial_3,After ,24,AL2_3,0
+2022-10-28,trial_3,After ,24,AL2_4,10
+2022-10-28,trial_3,After ,24,AL2_5,5
+2022-10-28,trial_3,After ,24,AL2_6,0
+2022-10-28,trial_3,After ,24,AL2_7,0
+2022-10-28,trial_3,After ,24,AL2_8,0
+2022-10-28,trial_3,After ,24,AL2_9,0
+2022-10-28,trial_3,After ,24,AL3_1,0
+2022-10-28,trial_3,After ,24,AL3_2,0
+2022-10-28,trial_3,After ,24,AL3_3,0
+2022-10-28,trial_3,After ,24,AL3_4,5
+2022-10-28,trial_3,After ,24,AL3_5,0
+2022-10-28,trial_3,After ,24,AL3_6,5
+2022-10-28,trial_3,After ,24,AL3_7,0
+2022-10-28,trial_3,After ,24,AL3_8,5
+2022-10-28,trial_3,After ,24,AL3_9,5
